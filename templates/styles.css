@@ -1,0 +1,169 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: 'Poppins', sans-serif;
+  background-color: #000;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.header {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+.logo-text {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin-top: 35px;
+  margin-left: 50px;
+  font-size: 1rem;
+  color: #fff;
+  z-index: 1000;
+  
+}
+  .main-title {
+    margin-bottom: 50px;
+    margin-top: 150px;
+    margin-left: 100px;
+    margin-right: 650px; /* Ini akan membantu jika ada background atau elemen lain */
+    font-size: 7rem; /* Sesuaikan ukuran font agar sesuai dengan kontainer */
+    text-align: left;
+  }
+  
+  .subtitle {
+    margin-top: 100px; 
+    margin-left: 45px;
+    margin-right: 1300px;
+    font-size: 1.4rem;
+    z-index: 5;
+  }
+  
+  .start-btn {
+    padding: 1rem 3rem;
+    margin-left: 1300px;
+    margin-right: 90px;
+    font-size: 1.2rem;
+    background-color: #fff;
+    color: #000;
+    border: none;
+    cursor: pointer;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;    
+  }
+
+  .hand-image{
+    background-image: url('file:///C:\Users\62823\Downloads\hand.png');
+    width: 200px; 
+     height: 200px; 
+  }
+  
+  .upload-container {
+    position: relative;
+    width: 450px; /* Menetapkan lebar yang spesifik untuk .upload-container */
+  }
+  
+  .upload-box {
+    background: rgba(255, 255, 255, 0.2);
+    border: 2px dashed #fff;
+    border-radius: 10px;
+    padding: 20px;
+    width: 100%; /* Menggunakan lebar penuh dari .upload-container */
+    height: auto; /* Tinggi menyesuaikan dengan konten */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .cloud-icon {
+    font-size: 15px; /* Sesuaikan ukuran ikon Anda */
+    margin-bottom: 20px;
+  }
+  
+  .upload-btn {
+    background-color: #fff;
+    border: none;
+    border-radius: 6px;
+    color: black;
+    padding: 6px 20px;
+    cursor: pointer;
+    outline: none; /* Menghapus fokus outline */
+  }
+  
+  .preview-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 80%; /* Menyesuaikan dengan lebar viewport */
+    max-width: 600px; /* Batas maksimum lebar */
+    margin-top: 100px; /* Atau sesuaikan berdasarkan layout */
+  }
+  
+  .image-preview {
+    border: 2px solid #fff;
+    padding: 10px; /* Atau sesuaikan berdasarkan layout */
+    width: 100%; /* Menggunakan 100% dari .preview-container */
+    box-sizing: border-box; /* Border dan padding dihitung ke dalam width */
+  }
+  
+  .image-preview img {
+    max-width: 100%; /* Gambar tidak melebihi kontainer .image-preview */
+    max-height: 500px; /* Mengatur tinggi maksimum gambar */
+    object-fit: contain; /* Menjaga rasio aspek gambar tanpa memotongnya */
+  }
+  
+  #fileName {
+    color: #fff;
+    margin-top: 10px;
+  }
+  #fileName {
+    white-space: nowrap; /* Pastikan teks tidak pindah baris */
+    overflow: hidden; /* Sembunyikan teks yang keluar dari batas */
+    text-overflow: ellipsis; /* Tambahkan ellipsis pada akhir teks yang dipotong */
+    max-width: 90%; /* Atur maksimum lebar dari nama file, sesuaikan sesuai kebutuhan */
+    margin: 0 auto; /* Tengahkan jika kontainer lebih lebar */
+  }
+  
+  
+  #scanButton {
+    background-color: #fff;
+    color: #000;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 20px;
+    cursor: pointer;
+    font-size: 1rem;
+    border-radius: 5px; 
+  }
+  
+  /* Atur responsif untuk layar yang lebih kecil */
+  @media (max-width: 600px) {
+    .logo-text {
+      top: 10px;
+      left: 10px;
+      font-size: 1rem;
+    }
+  
+    .preview-container {
+      width: 95%;
+      margin-top: 50px;
+    }
+  
+    .image-preview img {
+      max-height: 300px;
+    }
+  }

@@ -1,0 +1,2202 @@
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:/Users/Personal/TA_20/fcnn/Test epoch/Faster-R-CNN-model-deployment-using-flask-on-local-host-master/server.py", line 71, in upload
+    img_name = secure_filename(img.filename)
+NameError: name 'secure_filename' is not defined
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:/Users/Personal/TA_20/fcnn/Test epoch/Faster-R-CNN-model-deployment-using-flask-on-local-host-master/server.py", line 71, in upload
+    img_name = secure_filename(img.filename)
+NameError: name 'secure_filename' is not defined
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:/Users/Personal/TA_20/fcnn/Test epoch/Faster-R-CNN-model-deployment-using-flask-on-local-host-master/server.py", line 71, in upload
+    img_name = secure_filename(img.filename)
+NameError: name 'secure_filename' is not defined
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:/Users/Personal/TA_20/fcnn/Test epoch/Faster-R-CNN-model-deployment-using-flask-on-local-host-master/server.py", line 71, in upload
+    img_name = secure_filename(img.filename)
+NameError: name 'secure_filename' is not defined
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:/Users/Personal/TA_20/fcnn/Test epoch/Faster-R-CNN-model-deployment-using-flask-on-local-host-master/server.py", line 71, in upload
+    img_name = secure_filename(img.filename)
+NameError: name 'secure_filename' is not defined
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/Hotman_TE_23.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:/Users/Personal/TA_20/fcnn/Test epoch/Faster-R-CNN-model-deployment-using-flask-on-local-host-master/server.py", line 77, in upload
+    im_path, im_name = mainf(saved_path)
+  File "c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 685, in mainf
+    R = rpn_to_roi(Y1, Y2, C, K.common.image_dim_ordering(), overlap_thresh=0.7)
+  File "c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 461, in rpn_to_roi
+    anchor_x = (anchor_size * anchor_ratio[0])/C.rpn_stride
+TypeError: 'int' object is not subscriptable
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/Hotman_TE_23.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:/Users/Personal/TA_20/fcnn/Test epoch/Faster-R-CNN-model-deployment-using-flask-on-local-host-master/server.py", line 77, in upload
+    im_path, im_name = mainf(saved_path)
+  File "c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 683, in mainf
+    R = rpn_to_roi(Y1, Y2, C, K.common.image_dim_ordering(), overlap_thresh=0.7)
+  File "c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 460, in rpn_to_roi
+    anchor_x = (anchor_size * anchor_ratio[0])/C.rpn_stride
+TypeError: 'int' object is not subscriptable
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/Hotman_TE_23.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:/Users/Personal/TA_20/fcnn/Test epoch/Faster-R-CNN-model-deployment-using-flask-on-local-host-master/server.py", line 77, in upload
+    im_path, im_name = mainf(saved_path)
+  File "c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 683, in mainf
+    R = rpn_to_roi(Y1, Y2, C, K.common.image_dim_ordering(), overlap_thresh=0.7)
+  File "c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 460, in rpn_to_roi
+    anchor_x = (anchor_size * anchor_ratio[0])/C.rpn_stride
+TypeError: 'int' object is not subscriptable
+Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:/Users/Personal/TA_20/fcnn/Test epoch/Faster-R-CNN-model-deployment-using-flask-on-local-host-master/server.py", line 57, in index
+    return render_template('uploads.html')
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\templating.py", line 146, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\jinja2\environment.py", line 1081, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\jinja2\environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\jinja2\environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\jinja2\loaders.py", line 125, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\templating.py", line 62, in get_source
+    return self._get_source_fast(environment, template)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\templating.py", line 98, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: uploads.html
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/Hotman_TE_23.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "server.py", line 77, in upload
+    im_path, im_name = mainf(saved_path)
+  File "C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 683, in mainf
+    R = rpn_to_roi(Y1, Y2, C, K.common.image_dim_ordering(), overlap_thresh=0.7)
+  File "C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 460, in rpn_to_roi
+    anchor_x = (anchor_size * anchor_ratio[0])/C.rpn_stride
+TypeError: 'int' object is not subscriptable
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/Hotman_TE_23.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1113, in _run
+    subfeed, allow_tensor=True, allow_operation=False)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\ops.py", line 3796, in as_graph_element
+    return self._as_graph_element_locked(obj, allow_tensor, allow_operation)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\ops.py", line 3875, in _as_graph_element_locked
+    raise ValueError("Tensor %s is not an element of this graph." % obj)
+ValueError: Tensor Tensor("Placeholder:0", shape=(3, 3, 3, 64), dtype=float32) is not an element of this graph.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "server.py", line 77, in upload
+    im_path, im_name = mainf(saved_path)
+  File "C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 630, in mainf
+    model_rpn.load_weights(model_path_custom, by_name=True)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 2498, in load_weights
+    load_weights_from_hdf5_group_by_name(f, self.layers)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 2976, in load_weights_from_hdf5_group_by_name
+    K.batch_set_value(weight_value_tuples)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 2027, in batch_set_value
+    get_session().run(assign_ops, feed_dict=feed_dict)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 950, in run
+    run_metadata_ptr)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1116, in _run
+    'Cannot interpret feed_dict key as Tensor: ' + e.args[0])
+TypeError: Cannot interpret feed_dict key as Tensor: Tensor Tensor("Placeholder:0", shape=(3, 3, 3, 64), dtype=float32) is not an element of this graph.
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/Hotman_TE_23.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:/Users/Personal/TA_20/fcnn/Test epoch/Faster-R-CNN-model-deployment-using-flask-on-local-host-master/server.py", line 77, in upload
+    im_path, im_name = mainf(saved_path)
+  File "c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 683, in mainf
+    R = rpn_to_roi(Y1, Y2, C, K.common.image_dim_ordering(), overlap_thresh=0.7)
+  File "c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 460, in rpn_to_roi
+    anchor_x = (anchor_size * anchor_ratio[0])/C.rpn_stride
+TypeError: 'int' object is not subscriptable
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/Hotman_TE_23.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:/Users/Personal/TA_20/fcnn/Test epoch/Faster-R-CNN-model-deployment-using-flask-on-local-host-master/server.py", line 77, in upload
+    im_path, im_name = mainf(saved_path)
+  File "c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 683, in mainf
+    R = rpn_to_roi(Y1, Y2, C, K.common.image_dim_ordering(), overlap_thresh=0.7)
+  File "c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 460, in rpn_to_roi
+    anchor_x = (anchor_size * anchor_ratio[0])/C.rpn_stride
+TypeError: 'int' object is not subscriptable
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/Hotman_TE_23.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:/Users/Personal/TA_20/fcnn/Test epoch/Faster-R-CNN-model-deployment-using-flask-on-local-host-master/server.py", line 77, in upload
+    im_path, im_name = mainf(saved_path)
+  File "c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 682, in mainf
+    R = rpn_to_roi(Y1, Y2, C, K.common.image_dim_ordering(), overlap_thresh=0.7)
+  File "c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 459, in rpn_to_roi
+    anchor_x = (anchor_size * anchor_ratio[0])/C.rpn_stride
+TypeError: 'int' object is not subscriptable
+Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:/Users/Personal/TA_20/fcnn/Test epoch/Faster-R-CNN-model-deployment-using-flask-on-local-host-master/server.py", line 57, in index
+    return render_template('hello   .html')
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\templating.py", line 146, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\jinja2\environment.py", line 1081, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\jinja2\environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\jinja2\environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\jinja2\loaders.py", line 125, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\templating.py", line 62, in get_source
+    return self._get_source_fast(environment, template)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\templating.py", line 98, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: hello   .html
+Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:/Users/Personal/TA_20/fcnn/Test epoch/Faster-R-CNN-model-deployment-using-flask-on-local-host-master/server.py", line 57, in index
+    return render_template('hello   .html')
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\templating.py", line 146, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\jinja2\environment.py", line 1081, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\jinja2\environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\jinja2\environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\jinja2\loaders.py", line 125, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\templating.py", line 62, in get_source
+    return self._get_source_fast(environment, template)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\templating.py", line 98, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: hello   .html
+Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:/Users/Personal/TA_20/fcnn/Test epoch/Faster-R-CNN-model-deployment-using-flask-on-local-host-master/server.py", line 57, in index
+    return render_template('hello   .html')
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\templating.py", line 146, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\jinja2\environment.py", line 1081, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\jinja2\environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\jinja2\environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\jinja2\loaders.py", line 125, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\templating.py", line 62, in get_source
+    return self._get_source_fast(environment, template)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\templating.py", line 98, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: hello   .html
+Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:/Users/Personal/TA_20/fcnn/Test epoch/Faster-R-CNN-model-deployment-using-flask-on-local-host-master/server.py", line 57, in index
+    return render_template('hello   .html')
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\templating.py", line 146, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\jinja2\environment.py", line 1081, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\jinja2\environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\jinja2\environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\jinja2\loaders.py", line 125, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\templating.py", line 62, in get_source
+    return self._get_source_fast(environment, template)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\templating.py", line 98, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: hello   .html
+Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:/Users/Personal/TA_20/fcnn/Test epoch/Faster-R-CNN-model-deployment-using-flask-on-local-host-master/server.py", line 57, in index
+    return render_template('hello   .html')
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\templating.py", line 146, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\jinja2\environment.py", line 1081, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\jinja2\environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\jinja2\environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\jinja2\loaders.py", line 125, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\templating.py", line 62, in get_source
+    return self._get_source_fast(environment, template)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\templating.py", line 98, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: hello   .html
+Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:/Users/Personal/TA_20/fcnn/Test epoch/Faster-R-CNN-model-deployment-using-flask-on-local-host-master/server.py", line 57, in index
+    return render_template('hello   .html')
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\templating.py", line 146, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\jinja2\environment.py", line 1081, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\jinja2\environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\jinja2\environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\jinja2\loaders.py", line 125, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\templating.py", line 62, in get_source
+    return self._get_source_fast(environment, template)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\templating.py", line 98, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: hello   .html
+Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:/Users/Personal/TA_20/fcnn/Test epoch/Faster-R-CNN-model-deployment-using-flask-on-local-host-master/server.py", line 57, in index
+    return render_template('hello.html')
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\templating.py", line 146, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\jinja2\environment.py", line 1081, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\jinja2\environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\jinja2\environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\jinja2\loaders.py", line 125, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\templating.py", line 62, in get_source
+    return self._get_source_fast(environment, template)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\templating.py", line 98, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: hello   .html
+Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:/Users/Personal/TA_20/fcnn/Test epoch/Faster-R-CNN-model-deployment-using-flask-on-local-host-master/server.py", line 57, in index
+    return render_template('hello.html')
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\templating.py", line 146, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\jinja2\environment.py", line 1081, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\jinja2\environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\jinja2\environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\jinja2\loaders.py", line 125, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\templating.py", line 62, in get_source
+    return self._get_source_fast(environment, template)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\templating.py", line 98, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: hello   .html
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/Hotman_TE_23.jpg
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/Hotman_TE_23.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1113, in _run
+    subfeed, allow_tensor=True, allow_operation=False)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\ops.py", line 3796, in as_graph_element
+    return self._as_graph_element_locked(obj, allow_tensor, allow_operation)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\ops.py", line 3875, in _as_graph_element_locked
+    raise ValueError("Tensor %s is not an element of this graph." % obj)
+ValueError: Tensor Tensor("Placeholder:0", shape=(3, 3, 3, 64), dtype=float32) is not an element of this graph.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:/Users/Personal/TA_20/fcnn/Test epoch/Faster-R-CNN-model-deployment-using-flask-on-local-host-master/server.py", line 77, in upload
+    im_path, im_name = mainf(saved_path)
+  File "c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 596, in mainf
+    model_rpn.load_weights(model_path_custom, by_name=True)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 2498, in load_weights
+    load_weights_from_hdf5_group_by_name(f, self.layers)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 2976, in load_weights_from_hdf5_group_by_name
+    K.batch_set_value(weight_value_tuples)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 2027, in batch_set_value
+    get_session().run(assign_ops, feed_dict=feed_dict)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 950, in run
+    run_metadata_ptr)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1116, in _run
+    'Cannot interpret feed_dict key as Tensor: ' + e.args[0])
+TypeError: Cannot interpret feed_dict key as Tensor: Tensor Tensor("Placeholder:0", shape=(3, 3, 3, 64), dtype=float32) is not an element of this graph.
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:/Users/Personal/TA_20/fcnn/Test epoch/Faster-R-CNN-model-deployment-using-flask-on-local-host-master/server.py", line 77, in upload
+    im_path, im_name = mainf(saved_path)
+  File "c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 649, in mainf
+    R = rpn_to_roi(Y1, Y2, C, K.common.image_dim_ordering(), overlap_thresh=0.7)
+  File "c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 468, in rpn_to_roi
+    raise ValueError("anchor_ratio must be a list or tuple with length 2")
+ValueError: anchor_ratio must be a list or tuple with length 2
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/Hotman_TE_23.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:/Users/Personal/TA_20/fcnn/Test epoch/Faster-R-CNN-model-deployment-using-flask-on-local-host-master/server.py", line 77, in upload
+    im_path, im_name = mainf(saved_path)
+  File "c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 650, in mainf
+    R = rpn_to_roi(Y1, Y2, C, K.common.image_dim_ordering(), overlap_thresh=0.7)
+  File "c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 469, in rpn_to_roi
+    raise ValueError("anchor_ratio must be a list or tuple with length 2")
+ValueError: anchor_ratio must be a list or tuple with length 2
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/Hotman_TE_23.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1356, in _do_call
+    return fn(*args)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1341, in _run_fn
+    options, feed_dict, fetch_list, target_list, run_metadata)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1429, in _call_tf_sessionrun
+    run_metadata)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: 2 root error(s) found.
+  (0) Invalid argument: You must feed a value for placeholder tensor 'time_distributed_3/keras_learning_phase' with dtype bool
+	 [[{{node time_distributed_3/keras_learning_phase}}]]
+	 [[dense_class_2/Reshape_1/_207]]
+  (1) Invalid argument: You must feed a value for placeholder tensor 'time_distributed_3/keras_learning_phase' with dtype bool
+	 [[{{node time_distributed_3/keras_learning_phase}}]]
+0 successful operations.
+0 derived errors ignored.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:/Users/Personal/TA_20/fcnn/Test epoch/Faster-R-CNN-model-deployment-using-flask-on-local-host-master/server.py", line 77, in upload
+    im_path, im_name = mainf(saved_path)
+  File "c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 673, in mainf
+    [P_cls, P_regr] = model_classifier_only.predict([F, ROIs])
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\training.py", line 1573, in predict
+    batch_size=batch_size, verbose=verbose)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\training.py", line 1203, in _predict_loop
+    batch_outs = f(ins_batch)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 2103, in __call__
+    feed_dict=feed_dict)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 950, in run
+    run_metadata_ptr)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1173, in _run
+    feed_dict_tensor, options, run_metadata)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1350, in _do_run
+    run_metadata)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1370, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: 2 root error(s) found.
+  (0) Invalid argument: You must feed a value for placeholder tensor 'time_distributed_3/keras_learning_phase' with dtype bool
+	 [[node time_distributed_3/keras_learning_phase (defined at C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:103) ]]
+	 [[dense_class_2/Reshape_1/_207]]
+  (1) Invalid argument: You must feed a value for placeholder tensor 'time_distributed_3/keras_learning_phase' with dtype bool
+	 [[node time_distributed_3/keras_learning_phase (defined at C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:103) ]]
+0 successful operations.
+0 derived errors ignored.
+
+Original stack trace for 'time_distributed_3/keras_learning_phase':
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\threading.py", line 890, in _bootstrap
+    self._bootstrap_inner()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\threading.py", line 926, in _bootstrap_inner
+    self.run()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\threading.py", line 870, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\socketserver.py", line 650, in process_request_thread
+    self.finish_request(request, client_address)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\socketserver.py", line 360, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\socketserver.py", line 720, in __init__
+    self.handle()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\werkzeug\serving.py", line 361, in handle
+    super().handle()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\http\server.py", line 426, in handle
+    self.handle_one_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\http\server.py", line 414, in handle_one_request
+    method()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\werkzeug\serving.py", line 333, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\werkzeug\serving.py", line 320, in execute
+    application_iter = app(environ, start_response)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2552, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:/Users/Personal/TA_20/fcnn/Test epoch/Faster-R-CNN-model-deployment-using-flask-on-local-host-master/server.py", line 77, in upload
+    im_path, im_name = mainf(saved_path)
+  File "c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 583, in mainf
+    classifier = classifier_layer(feature_map_input, roi_input, C.num_rois, nb_classes=len(C.class_mapping))
+  File "c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 290, in classifier_layer
+    out = TimeDistributed(Dropout(0.5))(out)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 578, in __call__
+    output = self.call(inputs, **kwargs)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\layers\wrappers.py", line 177, in call
+    y = self.layer.call(inputs)  # (num_samples * timesteps, ...)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\layers\core.py", line 111, in call
+    training=training)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 2433, in in_train_phase
+    training = learning_phase()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 103, in learning_phase
+    name='keras_learning_phase')
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\array_ops.py", line 2143, in placeholder
+    return gen_array_ops.placeholder(dtype=dtype, shape=shape, name=name)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\gen_array_ops.py", line 7401, in placeholder
+    "Placeholder", dtype=dtype, shape=shape, name=name)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\op_def_library.py", line 788, in _apply_op_helper
+    op_def=op_def)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\util\deprecation.py", line 507, in new_func
+    return func(*args, **kwargs)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\ops.py", line 3616, in create_op
+    op_def=op_def)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\ops.py", line 2005, in __init__
+    self._traceback = tf_stack.extract_stack()
+
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/Hotman_TE_23.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1356, in _do_call
+    return fn(*args)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1341, in _run_fn
+    options, feed_dict, fetch_list, target_list, run_metadata)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1429, in _call_tf_sessionrun
+    run_metadata)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: 2 root error(s) found.
+  (0) Invalid argument: You must feed a value for placeholder tensor 'time_distributed_3/keras_learning_phase' with dtype bool
+	 [[{{node time_distributed_3/keras_learning_phase}}]]
+	 [[dense_class_2/Reshape_1/_207]]
+  (1) Invalid argument: You must feed a value for placeholder tensor 'time_distributed_3/keras_learning_phase' with dtype bool
+	 [[{{node time_distributed_3/keras_learning_phase}}]]
+0 successful operations.
+0 derived errors ignored.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:/Users/Personal/TA_20/fcnn/Test epoch/Faster-R-CNN-model-deployment-using-flask-on-local-host-master/server.py", line 77, in upload
+    im_path, im_name = mainf(saved_path)
+  File "c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 674, in mainf
+    [P_cls, P_regr] = model_classifier_only.predict([F, ROIs])
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\training.py", line 1573, in predict
+    batch_size=batch_size, verbose=verbose)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\training.py", line 1203, in _predict_loop
+    batch_outs = f(ins_batch)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 2103, in __call__
+    feed_dict=feed_dict)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 950, in run
+    run_metadata_ptr)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1173, in _run
+    feed_dict_tensor, options, run_metadata)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1350, in _do_run
+    run_metadata)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1370, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: 2 root error(s) found.
+  (0) Invalid argument: You must feed a value for placeholder tensor 'time_distributed_3/keras_learning_phase' with dtype bool
+	 [[node time_distributed_3/keras_learning_phase (defined at C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:103) ]]
+	 [[dense_class_2/Reshape_1/_207]]
+  (1) Invalid argument: You must feed a value for placeholder tensor 'time_distributed_3/keras_learning_phase' with dtype bool
+	 [[node time_distributed_3/keras_learning_phase (defined at C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:103) ]]
+0 successful operations.
+0 derived errors ignored.
+
+Original stack trace for 'time_distributed_3/keras_learning_phase':
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\threading.py", line 890, in _bootstrap
+    self._bootstrap_inner()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\threading.py", line 926, in _bootstrap_inner
+    self.run()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\threading.py", line 870, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\socketserver.py", line 650, in process_request_thread
+    self.finish_request(request, client_address)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\socketserver.py", line 360, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\socketserver.py", line 720, in __init__
+    self.handle()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\werkzeug\serving.py", line 361, in handle
+    super().handle()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\http\server.py", line 426, in handle
+    self.handle_one_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\http\server.py", line 414, in handle_one_request
+    method()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\werkzeug\serving.py", line 333, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\werkzeug\serving.py", line 320, in execute
+    application_iter = app(environ, start_response)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2552, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:/Users/Personal/TA_20/fcnn/Test epoch/Faster-R-CNN-model-deployment-using-flask-on-local-host-master/server.py", line 77, in upload
+    im_path, im_name = mainf(saved_path)
+  File "c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 584, in mainf
+    classifier = classifier_layer(feature_map_input, roi_input, C.num_rois, nb_classes=len(C.class_mapping))
+  File "c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 291, in classifier_layer
+    out = TimeDistributed(Dropout(0.5))(out)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 578, in __call__
+    output = self.call(inputs, **kwargs)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\layers\wrappers.py", line 177, in call
+    y = self.layer.call(inputs)  # (num_samples * timesteps, ...)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\layers\core.py", line 111, in call
+    training=training)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 2433, in in_train_phase
+    training = learning_phase()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 103, in learning_phase
+    name='keras_learning_phase')
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\array_ops.py", line 2143, in placeholder
+    return gen_array_ops.placeholder(dtype=dtype, shape=shape, name=name)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\gen_array_ops.py", line 7401, in placeholder
+    "Placeholder", dtype=dtype, shape=shape, name=name)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\op_def_library.py", line 788, in _apply_op_helper
+    op_def=op_def)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\util\deprecation.py", line 507, in new_func
+    return func(*args, **kwargs)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\ops.py", line 3616, in create_op
+    op_def=op_def)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\ops.py", line 2005, in __init__
+    self._traceback = tf_stack.extract_stack()
+
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/Hotman_TE_23.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1356, in _do_call
+    return fn(*args)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1341, in _run_fn
+    options, feed_dict, fetch_list, target_list, run_metadata)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1429, in _call_tf_sessionrun
+    run_metadata)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: 2 root error(s) found.
+  (0) Invalid argument: You must feed a value for placeholder tensor 'time_distributed_3/keras_learning_phase' with dtype bool
+	 [[{{node time_distributed_3/keras_learning_phase}}]]
+	 [[dense_class_2/Reshape_1/_207]]
+  (1) Invalid argument: You must feed a value for placeholder tensor 'time_distributed_3/keras_learning_phase' with dtype bool
+	 [[{{node time_distributed_3/keras_learning_phase}}]]
+0 successful operations.
+0 derived errors ignored.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:/Users/Personal/TA_20/fcnn/Test epoch/Faster-R-CNN-model-deployment-using-flask-on-local-host-master/server.py", line 78, in upload
+    im_path, im_name = mainf(saved_path)
+  File "c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 674, in mainf
+    [P_cls, P_regr] = model_classifier_only.predict([F, ROIs])
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\training.py", line 1573, in predict
+    batch_size=batch_size, verbose=verbose)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\training.py", line 1203, in _predict_loop
+    batch_outs = f(ins_batch)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 2103, in __call__
+    feed_dict=feed_dict)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 950, in run
+    run_metadata_ptr)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1173, in _run
+    feed_dict_tensor, options, run_metadata)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1350, in _do_run
+    run_metadata)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1370, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: 2 root error(s) found.
+  (0) Invalid argument: You must feed a value for placeholder tensor 'time_distributed_3/keras_learning_phase' with dtype bool
+	 [[node time_distributed_3/keras_learning_phase (defined at C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:103) ]]
+	 [[dense_class_2/Reshape_1/_207]]
+  (1) Invalid argument: You must feed a value for placeholder tensor 'time_distributed_3/keras_learning_phase' with dtype bool
+	 [[node time_distributed_3/keras_learning_phase (defined at C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:103) ]]
+0 successful operations.
+0 derived errors ignored.
+
+Original stack trace for 'time_distributed_3/keras_learning_phase':
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\threading.py", line 890, in _bootstrap
+    self._bootstrap_inner()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\threading.py", line 926, in _bootstrap_inner
+    self.run()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\threading.py", line 870, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\socketserver.py", line 650, in process_request_thread
+    self.finish_request(request, client_address)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\socketserver.py", line 360, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\socketserver.py", line 720, in __init__
+    self.handle()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\werkzeug\serving.py", line 361, in handle
+    super().handle()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\http\server.py", line 426, in handle
+    self.handle_one_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\http\server.py", line 414, in handle_one_request
+    method()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\werkzeug\serving.py", line 333, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\werkzeug\serving.py", line 320, in execute
+    application_iter = app(environ, start_response)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2552, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:/Users/Personal/TA_20/fcnn/Test epoch/Faster-R-CNN-model-deployment-using-flask-on-local-host-master/server.py", line 78, in upload
+    im_path, im_name = mainf(saved_path)
+  File "c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 584, in mainf
+    classifier = classifier_layer(feature_map_input, roi_input, C.num_rois, nb_classes=len(C.class_mapping))
+  File "c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 291, in classifier_layer
+    out = TimeDistributed(Dropout(0.5))(out)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 578, in __call__
+    output = self.call(inputs, **kwargs)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\layers\wrappers.py", line 177, in call
+    y = self.layer.call(inputs)  # (num_samples * timesteps, ...)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\layers\core.py", line 111, in call
+    training=training)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 2433, in in_train_phase
+    training = learning_phase()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 103, in learning_phase
+    name='keras_learning_phase')
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\array_ops.py", line 2143, in placeholder
+    return gen_array_ops.placeholder(dtype=dtype, shape=shape, name=name)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\gen_array_ops.py", line 7401, in placeholder
+    "Placeholder", dtype=dtype, shape=shape, name=name)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\op_def_library.py", line 788, in _apply_op_helper
+    op_def=op_def)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\util\deprecation.py", line 507, in new_func
+    return func(*args, **kwargs)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\ops.py", line 3616, in create_op
+    op_def=op_def)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\ops.py", line 2005, in __init__
+    self._traceback = tf_stack.extract_stack()
+
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/Hotman_TE_23.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1356, in _do_call
+    return fn(*args)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1341, in _run_fn
+    options, feed_dict, fetch_list, target_list, run_metadata)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1429, in _call_tf_sessionrun
+    run_metadata)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: 2 root error(s) found.
+  (0) Invalid argument: You must feed a value for placeholder tensor 'time_distributed_3/keras_learning_phase' with dtype bool
+	 [[{{node time_distributed_3/keras_learning_phase}}]]
+	 [[dense_class_2/Reshape_1/_207]]
+  (1) Invalid argument: You must feed a value for placeholder tensor 'time_distributed_3/keras_learning_phase' with dtype bool
+	 [[{{node time_distributed_3/keras_learning_phase}}]]
+0 successful operations.
+0 derived errors ignored.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "server.py", line 78, in upload
+    im_path, im_name = mainf(saved_path)
+  File "C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 674, in mainf
+    [P_cls, P_regr] = model_classifier_only.predict([F, ROIs])
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\training.py", line 1573, in predict
+    batch_size=batch_size, verbose=verbose)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\training.py", line 1203, in _predict_loop
+    batch_outs = f(ins_batch)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 2103, in __call__
+    feed_dict=feed_dict)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 950, in run
+    run_metadata_ptr)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1173, in _run
+    feed_dict_tensor, options, run_metadata)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1350, in _do_run
+    run_metadata)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1370, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: 2 root error(s) found.
+  (0) Invalid argument: You must feed a value for placeholder tensor 'time_distributed_3/keras_learning_phase' with dtype bool
+	 [[node time_distributed_3/keras_learning_phase (defined at C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:103) ]]
+	 [[dense_class_2/Reshape_1/_207]]
+  (1) Invalid argument: You must feed a value for placeholder tensor 'time_distributed_3/keras_learning_phase' with dtype bool
+	 [[node time_distributed_3/keras_learning_phase (defined at C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:103) ]]
+0 successful operations.
+0 derived errors ignored.
+
+Original stack trace for 'time_distributed_3/keras_learning_phase':
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\threading.py", line 890, in _bootstrap
+    self._bootstrap_inner()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\threading.py", line 926, in _bootstrap_inner
+    self.run()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\threading.py", line 870, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\socketserver.py", line 650, in process_request_thread
+    self.finish_request(request, client_address)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\socketserver.py", line 360, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\socketserver.py", line 720, in __init__
+    self.handle()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\werkzeug\serving.py", line 361, in handle
+    super().handle()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\http\server.py", line 426, in handle
+    self.handle_one_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\http\server.py", line 414, in handle_one_request
+    method()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\werkzeug\serving.py", line 333, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\werkzeug\serving.py", line 320, in execute
+    application_iter = app(environ, start_response)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2552, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "server.py", line 78, in upload
+    im_path, im_name = mainf(saved_path)
+  File "C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 584, in mainf
+    classifier = classifier_layer(feature_map_input, roi_input, C.num_rois, nb_classes=len(C.class_mapping))
+  File "C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 291, in classifier_layer
+    out = TimeDistributed(Dropout(0.5))(out)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 578, in __call__
+    output = self.call(inputs, **kwargs)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\layers\wrappers.py", line 177, in call
+    y = self.layer.call(inputs)  # (num_samples * timesteps, ...)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\layers\core.py", line 111, in call
+    training=training)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 2433, in in_train_phase
+    training = learning_phase()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 103, in learning_phase
+    name='keras_learning_phase')
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\array_ops.py", line 2143, in placeholder
+    return gen_array_ops.placeholder(dtype=dtype, shape=shape, name=name)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\gen_array_ops.py", line 7401, in placeholder
+    "Placeholder", dtype=dtype, shape=shape, name=name)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\op_def_library.py", line 788, in _apply_op_helper
+    op_def=op_def)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\util\deprecation.py", line 507, in new_func
+    return func(*args, **kwargs)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\ops.py", line 3616, in create_op
+    op_def=op_def)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\ops.py", line 2005, in __init__
+    self._traceback = tf_stack.extract_stack()
+
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/Hotman_TE_23.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1356, in _do_call
+    return fn(*args)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1341, in _run_fn
+    options, feed_dict, fetch_list, target_list, run_metadata)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1429, in _call_tf_sessionrun
+    run_metadata)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: 2 root error(s) found.
+  (0) Invalid argument: You must feed a value for placeholder tensor 'time_distributed_3/keras_learning_phase' with dtype bool
+	 [[{{node time_distributed_3/keras_learning_phase}}]]
+	 [[dense_class_2/Reshape_1/_207]]
+  (1) Invalid argument: You must feed a value for placeholder tensor 'time_distributed_3/keras_learning_phase' with dtype bool
+	 [[{{node time_distributed_3/keras_learning_phase}}]]
+0 successful operations.
+0 derived errors ignored.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "server.py", line 78, in upload
+    im_path, im_name = mainf(saved_path)
+  File "C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 682, in mainf
+    [P_cls, P_regr] = model_classifier_only.predict([F, ROIs])
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\training.py", line 1573, in predict
+    batch_size=batch_size, verbose=verbose)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\training.py", line 1203, in _predict_loop
+    batch_outs = f(ins_batch)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 2103, in __call__
+    feed_dict=feed_dict)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 950, in run
+    run_metadata_ptr)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1173, in _run
+    feed_dict_tensor, options, run_metadata)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1350, in _do_run
+    run_metadata)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1370, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: 2 root error(s) found.
+  (0) Invalid argument: You must feed a value for placeholder tensor 'time_distributed_3/keras_learning_phase' with dtype bool
+	 [[node time_distributed_3/keras_learning_phase (defined at C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:103) ]]
+	 [[dense_class_2/Reshape_1/_207]]
+  (1) Invalid argument: You must feed a value for placeholder tensor 'time_distributed_3/keras_learning_phase' with dtype bool
+	 [[node time_distributed_3/keras_learning_phase (defined at C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:103) ]]
+0 successful operations.
+0 derived errors ignored.
+
+Original stack trace for 'time_distributed_3/keras_learning_phase':
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\threading.py", line 890, in _bootstrap
+    self._bootstrap_inner()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\threading.py", line 926, in _bootstrap_inner
+    self.run()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\threading.py", line 870, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\socketserver.py", line 650, in process_request_thread
+    self.finish_request(request, client_address)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\socketserver.py", line 360, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\socketserver.py", line 720, in __init__
+    self.handle()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\werkzeug\serving.py", line 361, in handle
+    super().handle()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\http\server.py", line 426, in handle
+    self.handle_one_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\http\server.py", line 414, in handle_one_request
+    method()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\werkzeug\serving.py", line 333, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\werkzeug\serving.py", line 320, in execute
+    application_iter = app(environ, start_response)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2552, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "server.py", line 78, in upload
+    im_path, im_name = mainf(saved_path)
+  File "C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 592, in mainf
+    classifier = classifier_layer(feature_map_input, roi_input, C.num_rois, nb_classes=len(C.class_mapping))
+  File "C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 299, in classifier_layer
+    out = TimeDistributed(Dropout(0.5))(out)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 578, in __call__
+    output = self.call(inputs, **kwargs)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\layers\wrappers.py", line 177, in call
+    y = self.layer.call(inputs)  # (num_samples * timesteps, ...)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\layers\core.py", line 111, in call
+    training=training)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 2433, in in_train_phase
+    training = learning_phase()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 103, in learning_phase
+    name='keras_learning_phase')
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\array_ops.py", line 2143, in placeholder
+    return gen_array_ops.placeholder(dtype=dtype, shape=shape, name=name)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\gen_array_ops.py", line 7401, in placeholder
+    "Placeholder", dtype=dtype, shape=shape, name=name)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\op_def_library.py", line 788, in _apply_op_helper
+    op_def=op_def)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\util\deprecation.py", line 507, in new_func
+    return func(*args, **kwargs)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\ops.py", line 3616, in create_op
+    op_def=op_def)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\ops.py", line 2005, in __init__
+    self._traceback = tf_stack.extract_stack()
+
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/Hotman_TE_23.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "server.py", line 78, in upload
+    im_path, im_name = mainf(saved_path)
+  File "C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 654, in mainf
+    with K.learning_phase_scope(0):
+AttributeError: module 'keras.backend' has no attribute 'learning_phase_scope'
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/Hotman_TE_23.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1113, in _run
+    subfeed, allow_tensor=True, allow_operation=False)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\ops.py", line 3796, in as_graph_element
+    return self._as_graph_element_locked(obj, allow_tensor, allow_operation)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\ops.py", line 3875, in _as_graph_element_locked
+    raise ValueError("Tensor %s is not an element of this graph." % obj)
+ValueError: Tensor Tensor("Placeholder:0", shape=(3, 3, 3, 64), dtype=float32) is not an element of this graph.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "server.py", line 78, in upload
+    im_path, im_name = mainf(saved_path)
+  File "C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 605, in mainf
+    model_rpn.compile(optimizer='sgd', loss='mse')
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 2498, in load_weights
+    load_weights_from_hdf5_group_by_name(f, self.layers)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 2976, in load_weights_from_hdf5_group_by_name
+    K.batch_set_value(weight_value_tuples)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 2027, in batch_set_value
+    get_session().run(assign_ops, feed_dict=feed_dict)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 950, in run
+    run_metadata_ptr)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1116, in _run
+    'Cannot interpret feed_dict key as Tensor: ' + e.args[0])
+TypeError: Cannot interpret feed_dict key as Tensor: Tensor Tensor("Placeholder:0", shape=(3, 3, 3, 64), dtype=float32) is not an element of this graph.
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/Hotman_TE_23.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "server.py", line 78, in upload
+    im_path, im_name = mainf(saved_path)
+  File "C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 1119, in mainf
+    model_classifier.load_weights(model_path_custom, by_name=True)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 2498, in load_weights
+    load_weights_from_hdf5_group_by_name(f, self.layers)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 2976, in load_weights_from_hdf5_group_by_name
+    K.batch_set_value(weight_value_tuples)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 2014, in batch_set_value
+    value = np.asarray(value)
+  File "h5py\_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py\_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\h5py\_hl\dataset.py", line 766, in __array__
+    arr = numpy.empty(self.shape, dtype=self.dtype if dtype is None else dtype)
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 392. MiB for an array with shape (25088, 4096) and data type float32
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/Hotman_TE_23.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1113, in _run
+    subfeed, allow_tensor=True, allow_operation=False)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\ops.py", line 3796, in as_graph_element
+    return self._as_graph_element_locked(obj, allow_tensor, allow_operation)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\ops.py", line 3875, in _as_graph_element_locked
+    raise ValueError("Tensor %s is not an element of this graph." % obj)
+ValueError: Tensor Tensor("Placeholder:0", shape=(3, 3, 3, 64), dtype=float32) is not an element of this graph.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "server.py", line 78, in upload
+    im_path, im_name = mainf(saved_path)
+  File "C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 1118, in mainf
+    model_rpn.load_weights(model_path_custom, by_name=True)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 2498, in load_weights
+    load_weights_from_hdf5_group_by_name(f, self.layers)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 2976, in load_weights_from_hdf5_group_by_name
+    K.batch_set_value(weight_value_tuples)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 2027, in batch_set_value
+    get_session().run(assign_ops, feed_dict=feed_dict)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 950, in run
+    run_metadata_ptr)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1116, in _run
+    'Cannot interpret feed_dict key as Tensor: ' + e.args[0])
+TypeError: Cannot interpret feed_dict key as Tensor: Tensor Tensor("Placeholder:0", shape=(3, 3, 3, 64), dtype=float32) is not an element of this graph.
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/Hotman_TE_23.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "server.py", line 78, in upload
+    im_path, im_name = mainf(saved_path)
+  File "C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 1119, in mainf
+    model_classifier.load_weights(model_path_custom, by_name=True)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 2498, in load_weights
+    load_weights_from_hdf5_group_by_name(f, self.layers)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 2976, in load_weights_from_hdf5_group_by_name
+    K.batch_set_value(weight_value_tuples)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 2014, in batch_set_value
+    value = np.asarray(value)
+  File "h5py\_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py\_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\h5py\_hl\dataset.py", line 766, in __array__
+    arr = numpy.empty(self.shape, dtype=self.dtype if dtype is None else dtype)
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 392. MiB for an array with shape (25088, 4096) and data type float32
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/Hotman_TE_23.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:/Users/Personal/TA_20/fcnn/Test epoch/Faster-R-CNN-model-deployment-using-flask-on-local-host-master/server.py", line 78, in upload
+    im_path, im_name = mainf(saved_path)
+  File "c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 1174, in mainf
+    R = rpn_to_roi(Y1, Y2, C, K.common.image_dim_ordering(), overlap_thresh=0.7)
+  File "c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 765, in rpn_to_roi
+    anchor_x = (anchor_size * anchor_ratio[0])/C.rpn_stride
+TypeError: 'int' object is not subscriptable
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/Hotman_TE_23.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1113, in _run
+    subfeed, allow_tensor=True, allow_operation=False)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\ops.py", line 3796, in as_graph_element
+    return self._as_graph_element_locked(obj, allow_tensor, allow_operation)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\ops.py", line 3875, in _as_graph_element_locked
+    raise ValueError("Tensor %s is not an element of this graph." % obj)
+ValueError: Tensor Tensor("Placeholder:0", shape=(3, 3, 3, 64), dtype=float32) is not an element of this graph.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:/Users/Personal/TA_20/fcnn/Test epoch/Faster-R-CNN-model-deployment-using-flask-on-local-host-master/server.py", line 78, in upload
+    im_path, im_name = mainf(saved_path)
+  File "c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 1118, in mainf
+    model_rpn.load_weights(model_path_custom, by_name=True)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 2498, in load_weights
+    load_weights_from_hdf5_group_by_name(f, self.layers)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 2976, in load_weights_from_hdf5_group_by_name
+    K.batch_set_value(weight_value_tuples)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 2027, in batch_set_value
+    get_session().run(assign_ops, feed_dict=feed_dict)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 950, in run
+    run_metadata_ptr)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1116, in _run
+    'Cannot interpret feed_dict key as Tensor: ' + e.args[0])
+TypeError: Cannot interpret feed_dict key as Tensor: Tensor Tensor("Placeholder:0", shape=(3, 3, 3, 64), dtype=float32) is not an element of this graph.
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/Hotman_TE_23.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1113, in _run
+    subfeed, allow_tensor=True, allow_operation=False)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\ops.py", line 3796, in as_graph_element
+    return self._as_graph_element_locked(obj, allow_tensor, allow_operation)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\ops.py", line 3875, in _as_graph_element_locked
+    raise ValueError("Tensor %s is not an element of this graph." % obj)
+ValueError: Tensor Tensor("Placeholder:0", shape=(3, 3, 3, 64), dtype=float32) is not an element of this graph.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:/Users/Personal/TA_20/fcnn/Test epoch/Faster-R-CNN-model-deployment-using-flask-on-local-host-master/server.py", line 78, in upload
+    im_path, im_name = mainf(saved_path)
+  File "c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 1118, in mainf
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 2498, in load_weights
+    load_weights_from_hdf5_group_by_name(f, self.layers)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 2976, in load_weights_from_hdf5_group_by_name
+    K.batch_set_value(weight_value_tuples)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 2027, in batch_set_value
+    get_session().run(assign_ops, feed_dict=feed_dict)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 950, in run
+    run_metadata_ptr)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1116, in _run
+    'Cannot interpret feed_dict key as Tensor: ' + e.args[0])
+TypeError: Cannot interpret feed_dict key as Tensor: Tensor Tensor("Placeholder:0", shape=(3, 3, 3, 64), dtype=float32) is not an element of this graph.
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/Hotman_TE_23.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1113, in _run
+    subfeed, allow_tensor=True, allow_operation=False)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\ops.py", line 3796, in as_graph_element
+    return self._as_graph_element_locked(obj, allow_tensor, allow_operation)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\ops.py", line 3875, in _as_graph_element_locked
+    raise ValueError("Tensor %s is not an element of this graph." % obj)
+ValueError: Tensor Tensor("Placeholder:0", shape=(3, 3, 3, 64), dtype=float32) is not an element of this graph.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:/Users/Personal/TA_20/fcnn/Test epoch/Faster-R-CNN-model-deployment-using-flask-on-local-host-master/server.py", line 78, in upload
+    im_path, im_name = mainf(saved_path)
+  File "c:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 1118, in mainf
+    print('Loading weights from {}'.format(model_path_custom))
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 2498, in load_weights
+    load_weights_from_hdf5_group_by_name(f, self.layers)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 2976, in load_weights_from_hdf5_group_by_name
+    K.batch_set_value(weight_value_tuples)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 2027, in batch_set_value
+    get_session().run(assign_ops, feed_dict=feed_dict)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 950, in run
+    run_metadata_ptr)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1116, in _run
+    'Cannot interpret feed_dict key as Tensor: ' + e.args[0])
+TypeError: Cannot interpret feed_dict key as Tensor: Tensor Tensor("Placeholder:0", shape=(3, 3, 3, 64), dtype=float32) is not an element of this graph.
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/Hotman_TE_23.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "server.py", line 78, in upload
+    im_path, im_name = mainf(saved_path)
+  File "C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 611, in mainf
+    shared_layers = nn_base(img_input, trainable=True)
+  File "C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 117, in nn_base
+    x = Conv2D(64, (3, 3), activation='relu', padding='same', name='block1_conv1')(img_input)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 565, in __call__
+    previous_mask = _collect_previous_mask(inputs)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 2665, in _collect_previous_mask
+    mask = node.output_masks[tensor_index]
+AttributeError: 'Node' object has no attribute 'output_masks'
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/Hotman_TE_23.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "server.py", line 78, in upload
+    im_path, im_name = mainf(saved_path)
+  File "C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 611, in mainf
+    shared_layers = nn_base(img_input, trainable=True)
+  File "C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master\test_deploy.py", line 117, in nn_base
+    x = Conv2D(64, (3, 3), activation='relu', padding='same', name='block1_conv1')(img_input)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 565, in __call__
+    previous_mask = _collect_previous_mask(inputs)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 2665, in _collect_previous_mask
+    mask = node.output_masks[tensor_index]
+AttributeError: 'Node' object has no attribute 'output_masks'
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/Hotman_TE_23.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "server.py", line 71, in upload
+    im_path, im_name = mainf(saved_path)
+  File "server.py", line 124, in mainf
+    shared_layers = nn_base(img_input, trainable=True)
+NameError: name 'nn_base' is not defined
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/Hotman_TE_23.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "server.py", line 71, in upload
+    x = Conv2D(512, (3, 3), activation='relu', padding='same', name='block4_conv2')(x)
+  File "server.py", line 124, in mainf
+    self.use_horizontal_flips = False
+NameError: name 'nn_base' is not defined
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/jefri_te_20.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "server.py", line 114, in upload
+    im_path, im_name = mainf(saved_path)
+  File "server.py", line 171, in mainf
+    rpn_layers = rpn_layer(shared_layers, num_anchors)
+NameError: name 'rpn_layer' is not defined
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/Hotman_TE_23.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "server.py", line 114, in upload
+    im_path, im_name = mainf(saved_path)
+  File "server.py", line 171, in mainf
+    rpn_layers = rpn_layer(shared_layers, num_anchors)
+NameError: name 'rpn_layer' is not defined
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/Hotman_TE_23.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "server.py", line 114, in upload
+    im_path, im_name = mainf(saved_path)
+  File "server.py", line 171, in mainf
+    See Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition,
+NameError: name 'rpn_layer' is not defined
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/Hotman_TE_23.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "server.py", line 114, in upload
+    im_path, im_name = mainf(saved_path)
+  File "server.py", line 171, in mainf
+    See Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition,
+NameError: name 'rpn_layer' is not defined
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/Hotman_TE_23.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "server.py", line 114, in upload
+    im_path, im_name = mainf(saved_path)
+  File "server.py", line 171, in mainf
+    See Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition,
+NameError: name 'rpn_layer' is not defined
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/Hotman_TE_23.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1356, in _do_call
+    return fn(*args)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1341, in _run_fn
+    options, feed_dict, fetch_list, target_list, run_metadata)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1429, in _call_tf_sessionrun
+    run_metadata)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: 2 root error(s) found.
+  (0) Invalid argument: You must feed a value for placeholder tensor 'time_distributed_3/keras_learning_phase' with dtype bool
+	 [[{{node time_distributed_3/keras_learning_phase}}]]
+	 [[dense_class_2/Reshape_1/_207]]
+  (1) Invalid argument: You must feed a value for placeholder tensor 'time_distributed_3/keras_learning_phase' with dtype bool
+	 [[{{node time_distributed_3/keras_learning_phase}}]]
+0 successful operations.
+0 derived errors ignored.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "server.py", line 114, in upload
+    im_path, im_name = mainf(saved_path)
+  File "server.py", line 676, in mainf
+    [P_cls, P_regr] = model_classifier_only.predict([F, ROIs])
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\training.py", line 1573, in predict
+    batch_size=batch_size, verbose=verbose)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\training.py", line 1203, in _predict_loop
+    batch_outs = f(ins_batch)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 2103, in __call__
+    feed_dict=feed_dict)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 950, in run
+    run_metadata_ptr)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1173, in _run
+    feed_dict_tensor, options, run_metadata)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1350, in _do_run
+    run_metadata)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1370, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: 2 root error(s) found.
+  (0) Invalid argument: You must feed a value for placeholder tensor 'time_distributed_3/keras_learning_phase' with dtype bool
+	 [[node time_distributed_3/keras_learning_phase (defined at C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:103) ]]
+	 [[dense_class_2/Reshape_1/_207]]
+  (1) Invalid argument: You must feed a value for placeholder tensor 'time_distributed_3/keras_learning_phase' with dtype bool
+	 [[node time_distributed_3/keras_learning_phase (defined at C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:103) ]]
+0 successful operations.
+0 derived errors ignored.
+
+Original stack trace for 'time_distributed_3/keras_learning_phase':
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\threading.py", line 890, in _bootstrap
+    self._bootstrap_inner()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\threading.py", line 926, in _bootstrap_inner
+    self.run()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\threading.py", line 870, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\socketserver.py", line 650, in process_request_thread
+    self.finish_request(request, client_address)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\socketserver.py", line 360, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\socketserver.py", line 720, in __init__
+    self.handle()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\werkzeug\serving.py", line 361, in handle
+    super().handle()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\http\server.py", line 426, in handle
+    self.handle_one_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\http\server.py", line 414, in handle_one_request
+    method()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\werkzeug\serving.py", line 333, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\werkzeug\serving.py", line 320, in execute
+    application_iter = app(environ, start_response)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2552, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "server.py", line 114, in upload
+    im_path, im_name = mainf(saved_path)
+  File "server.py", line 609, in mainf
+    classifier = classifier_layer(feature_map_input, roi_input, C.num_rois, nb_classes=len(C.class_mapping))
+  File "server.py", line 376, in classifier_layer
+    out = TimeDistributed(Dropout(0.5))(out)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 578, in __call__
+    output = self.call(inputs, **kwargs)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\layers\wrappers.py", line 177, in call
+    y = self.layer.call(inputs)  # (num_samples * timesteps, ...)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\layers\core.py", line 111, in call
+    training=training)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 2433, in in_train_phase
+    training = learning_phase()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 103, in learning_phase
+    name='keras_learning_phase')
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\array_ops.py", line 2143, in placeholder
+    return gen_array_ops.placeholder(dtype=dtype, shape=shape, name=name)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\gen_array_ops.py", line 7401, in placeholder
+    "Placeholder", dtype=dtype, shape=shape, name=name)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\op_def_library.py", line 788, in _apply_op_helper
+    op_def=op_def)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\util\deprecation.py", line 507, in new_func
+    return func(*args, **kwargs)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\ops.py", line 3616, in create_op
+    op_def=op_def)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\ops.py", line 2005, in __init__
+    self._traceback = tf_stack.extract_stack()
+
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/Hotman_TE_23.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1113, in _run
+    subfeed, allow_tensor=True, allow_operation=False)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\ops.py", line 3796, in as_graph_element
+    return self._as_graph_element_locked(obj, allow_tensor, allow_operation)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\ops.py", line 3875, in _as_graph_element_locked
+    raise ValueError("Tensor %s is not an element of this graph." % obj)
+ValueError: Tensor Tensor("Placeholder:0", shape=(3, 3, 3, 64), dtype=float32) is not an element of this graph.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "server.py", line 114, in upload
+    x = Conv2D(512, (3, 3), activation='relu', padding='same', name='block4_conv2')(x)
+  File "server.py", line 616, in mainf
+    real_x1 = int(round(x1 // ratio))
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 2498, in load_weights
+    load_weights_from_hdf5_group_by_name(f, self.layers)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 2976, in load_weights_from_hdf5_group_by_name
+    K.batch_set_value(weight_value_tuples)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 2027, in batch_set_value
+    get_session().run(assign_ops, feed_dict=feed_dict)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 950, in run
+    run_metadata_ptr)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1116, in _run
+    'Cannot interpret feed_dict key as Tensor: ' + e.args[0])
+TypeError: Cannot interpret feed_dict key as Tensor: Tensor Tensor("Placeholder:0", shape=(3, 3, 3, 64), dtype=float32) is not an element of this graph.
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/Hotman_TE_23.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1113, in _run
+    subfeed, allow_tensor=True, allow_operation=False)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\ops.py", line 3796, in as_graph_element
+    return self._as_graph_element_locked(obj, allow_tensor, allow_operation)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\ops.py", line 3875, in _as_graph_element_locked
+    raise ValueError("Tensor %s is not an element of this graph." % obj)
+ValueError: Tensor Tensor("Placeholder:0", shape=(3, 3, 3, 64), dtype=float32) is not an element of this graph.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "server.py", line 114, in upload
+    im_path, im_name = mainf(saved_path)
+  File "server.py", line 616, in mainf
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 2498, in load_weights
+    load_weights_from_hdf5_group_by_name(f, self.layers)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 2976, in load_weights_from_hdf5_group_by_name
+    K.batch_set_value(weight_value_tuples)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 2027, in batch_set_value
+    get_session().run(assign_ops, feed_dict=feed_dict)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 950, in run
+    run_metadata_ptr)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1116, in _run
+    'Cannot interpret feed_dict key as Tensor: ' + e.args[0])
+TypeError: Cannot interpret feed_dict key as Tensor: Tensor Tensor("Placeholder:0", shape=(3, 3, 3, 64), dtype=float32) is not an element of this graph.
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/jefri_te_20.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1356, in _do_call
+    return fn(*args)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1341, in _run_fn
+    options, feed_dict, fetch_list, target_list, run_metadata)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1429, in _call_tf_sessionrun
+    run_metadata)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: 2 root error(s) found.
+  (0) Invalid argument: You must feed a value for placeholder tensor 'time_distributed_3/keras_learning_phase' with dtype bool
+	 [[{{node time_distributed_3/keras_learning_phase}}]]
+	 [[dense_class_2/Reshape_1/_207]]
+  (1) Invalid argument: You must feed a value for placeholder tensor 'time_distributed_3/keras_learning_phase' with dtype bool
+	 [[{{node time_distributed_3/keras_learning_phase}}]]
+0 successful operations.
+0 derived errors ignored.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "server.py", line 114, in upload
+    im_path, im_name = mainf(saved_path)
+  File "server.py", line 677, in mainf
+    [P_cls, P_regr] = model_classifier_only.predict([F, ROIs])
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\training.py", line 1573, in predict
+    batch_size=batch_size, verbose=verbose)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\training.py", line 1203, in _predict_loop
+    batch_outs = f(ins_batch)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 2103, in __call__
+    feed_dict=feed_dict)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 950, in run
+    run_metadata_ptr)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1173, in _run
+    feed_dict_tensor, options, run_metadata)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1350, in _do_run
+    run_metadata)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1370, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: 2 root error(s) found.
+  (0) Invalid argument: You must feed a value for placeholder tensor 'time_distributed_3/keras_learning_phase' with dtype bool
+	 [[node time_distributed_3/keras_learning_phase (defined at C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:103) ]]
+	 [[dense_class_2/Reshape_1/_207]]
+  (1) Invalid argument: You must feed a value for placeholder tensor 'time_distributed_3/keras_learning_phase' with dtype bool
+	 [[node time_distributed_3/keras_learning_phase (defined at C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:103) ]]
+0 successful operations.
+0 derived errors ignored.
+
+Original stack trace for 'time_distributed_3/keras_learning_phase':
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\threading.py", line 890, in _bootstrap
+    self._bootstrap_inner()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\threading.py", line 926, in _bootstrap_inner
+    self.run()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\threading.py", line 870, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\socketserver.py", line 650, in process_request_thread
+    self.finish_request(request, client_address)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\socketserver.py", line 360, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\socketserver.py", line 720, in __init__
+    self.handle()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\werkzeug\serving.py", line 361, in handle
+    super().handle()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\http\server.py", line 426, in handle
+    self.handle_one_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\http\server.py", line 414, in handle_one_request
+    method()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\werkzeug\serving.py", line 333, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\werkzeug\serving.py", line 320, in execute
+    application_iter = app(environ, start_response)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2552, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "server.py", line 114, in upload
+    im_path, im_name = mainf(saved_path)
+  File "server.py", line 610, in mainf
+    classifier = classifier_layer(feature_map_input, roi_input, C.num_rois, nb_classes=len(C.class_mapping))
+  File "server.py", line 376, in classifier_layer
+    out = TimeDistributed(Dropout(0.5))(out)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 578, in __call__
+    output = self.call(inputs, **kwargs)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\layers\wrappers.py", line 177, in call
+    y = self.layer.call(inputs)  # (num_samples * timesteps, ...)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\layers\core.py", line 111, in call
+    training=training)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 2433, in in_train_phase
+    training = learning_phase()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 103, in learning_phase
+    name='keras_learning_phase')
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\array_ops.py", line 2143, in placeholder
+    return gen_array_ops.placeholder(dtype=dtype, shape=shape, name=name)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\gen_array_ops.py", line 7401, in placeholder
+    "Placeholder", dtype=dtype, shape=shape, name=name)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\op_def_library.py", line 788, in _apply_op_helper
+    op_def=op_def)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\util\deprecation.py", line 507, in new_func
+    return func(*args, **kwargs)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\ops.py", line 3616, in create_op
+    op_def=op_def)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\ops.py", line 2005, in __init__
+    self._traceback = tf_stack.extract_stack()
+
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/horas_te_20.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1356, in _do_call
+    return fn(*args)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1341, in _run_fn
+    options, feed_dict, fetch_list, target_list, run_metadata)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1429, in _call_tf_sessionrun
+    run_metadata)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: You must feed a value for placeholder tensor 'time_distributed_3/keras_learning_phase' with dtype bool
+	 [[{{node time_distributed_3/keras_learning_phase}}]]
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "server.py", line 114, in upload
+    im_path, im_name = mainf(saved_path)
+  File "server.py", line 677, in mainf
+    [P_cls, P_regr] = model_classifier_only.predict([F, ROIs])
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\training.py", line 1573, in predict
+    batch_size=batch_size, verbose=verbose)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\training.py", line 1203, in _predict_loop
+    batch_outs = f(ins_batch)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 2103, in __call__
+    feed_dict=feed_dict)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 950, in run
+    run_metadata_ptr)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1173, in _run
+    feed_dict_tensor, options, run_metadata)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1350, in _do_run
+    run_metadata)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1370, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: You must feed a value for placeholder tensor 'time_distributed_3/keras_learning_phase' with dtype bool
+	 [[node time_distributed_3/keras_learning_phase (defined at C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:103) ]]
+
+Original stack trace for 'time_distributed_3/keras_learning_phase':
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\threading.py", line 890, in _bootstrap
+    self._bootstrap_inner()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\threading.py", line 926, in _bootstrap_inner
+    self.run()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\threading.py", line 870, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\socketserver.py", line 650, in process_request_thread
+    self.finish_request(request, client_address)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\socketserver.py", line 360, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\socketserver.py", line 720, in __init__
+    self.handle()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\werkzeug\serving.py", line 361, in handle
+    super().handle()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\http\server.py", line 426, in handle
+    self.handle_one_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\http\server.py", line 414, in handle_one_request
+    method()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\werkzeug\serving.py", line 333, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\werkzeug\serving.py", line 320, in execute
+    application_iter = app(environ, start_response)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2552, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "server.py", line 114, in upload
+    im_path, im_name = mainf(saved_path)
+  File "server.py", line 610, in mainf
+    classifier = classifier_layer(feature_map_input, roi_input, C.num_rois, nb_classes=len(C.class_mapping))
+  File "server.py", line 376, in classifier_layer
+    out = TimeDistributed(Dropout(0.5))(out)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 578, in __call__
+    output = self.call(inputs, **kwargs)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\layers\wrappers.py", line 177, in call
+    y = self.layer.call(inputs)  # (num_samples * timesteps, ...)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\layers\core.py", line 111, in call
+    training=training)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 2433, in in_train_phase
+    training = learning_phase()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 103, in learning_phase
+    name='keras_learning_phase')
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\array_ops.py", line 2143, in placeholder
+    return gen_array_ops.placeholder(dtype=dtype, shape=shape, name=name)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\gen_array_ops.py", line 7401, in placeholder
+    "Placeholder", dtype=dtype, shape=shape, name=name)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\op_def_library.py", line 788, in _apply_op_helper
+    op_def=op_def)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\util\deprecation.py", line 507, in new_func
+    return func(*args, **kwargs)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\ops.py", line 3616, in create_op
+    op_def=op_def)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\ops.py", line 2005, in __init__
+    self._traceback = tf_stack.extract_stack()
+
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/anton_if_20.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1356, in _do_call
+    return fn(*args)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1341, in _run_fn
+    options, feed_dict, fetch_list, target_list, run_metadata)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1429, in _call_tf_sessionrun
+    run_metadata)
+tensorflow.python.framework.errors_impl.UnknownError: 2 root error(s) found.
+  (0) Unknown: Failed to get convolution algorithm. This is probably because cuDNN failed to initialize, so try looking to see if a warning log message was printed above.
+	 [[{{node block1_conv1/convolution}}]]
+  (1) Unknown: Failed to get convolution algorithm. This is probably because cuDNN failed to initialize, so try looking to see if a warning log message was printed above.
+	 [[{{node block1_conv1/convolution}}]]
+	 [[rpn_out_regress/BiasAdd/_167]]
+0 successful operations.
+0 derived errors ignored.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "server.py", line 114, in upload
+    im_path, im_name = mainf(saved_path)
+  File "server.py", line 650, in mainf
+    [Y1, Y2, F] = model_rpn.predict(X)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\training.py", line 1573, in predict
+    batch_size=batch_size, verbose=verbose)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\training.py", line 1203, in _predict_loop
+    batch_outs = f(ins_batch)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 2103, in __call__
+    feed_dict=feed_dict)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 950, in run
+    run_metadata_ptr)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1173, in _run
+    feed_dict_tensor, options, run_metadata)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1350, in _do_run
+    run_metadata)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\client\session.py", line 1370, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors_impl.UnknownError: 2 root error(s) found.
+  (0) Unknown: Failed to get convolution algorithm. This is probably because cuDNN failed to initialize, so try looking to see if a warning log message was printed above.
+	 [[node block1_conv1/convolution (defined at C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:2893) ]]
+  (1) Unknown: Failed to get convolution algorithm. This is probably because cuDNN failed to initialize, so try looking to see if a warning log message was printed above.
+	 [[node block1_conv1/convolution (defined at C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:2893) ]]
+	 [[rpn_out_regress/BiasAdd/_167]]
+0 successful operations.
+0 derived errors ignored.
+
+Errors may have originated from an input operation.
+Input Source operations connected to node block1_conv1/convolution:
+ input_1 (defined at C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:351)	
+ block1_conv1/kernel/read (defined at C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:288)
+
+Input Source operations connected to node block1_conv1/convolution:
+ input_1 (defined at C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:351)	
+ block1_conv1/kernel/read (defined at C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:288)
+
+Original stack trace for 'block1_conv1/convolution':
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\threading.py", line 890, in _bootstrap
+    self._bootstrap_inner()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\threading.py", line 926, in _bootstrap_inner
+    self.run()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\threading.py", line 870, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\socketserver.py", line 650, in process_request_thread
+    self.finish_request(request, client_address)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\socketserver.py", line 360, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\socketserver.py", line 720, in __init__
+    self.handle()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\werkzeug\serving.py", line 361, in handle
+    super().handle()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\http\server.py", line 426, in handle
+    self.handle_one_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\http\server.py", line 414, in handle_one_request
+    method()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\werkzeug\serving.py", line 333, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\werkzeug\serving.py", line 320, in execute
+    application_iter = app(environ, start_response)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2552, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "server.py", line 114, in upload
+    im_path, im_name = mainf(saved_path)
+  File "server.py", line 604, in mainf
+    shared_layers = nn_base(img_input, trainable=True)
+  File "server.py", line 54, in nn_base
+    x = Conv2D(64, (3, 3), activation='relu', padding='same', name='block1_conv1')(img_input)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 578, in __call__
+    output = self.call(inputs, **kwargs)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\layers\convolutional.py", line 164, in call
+    dilation_rate=self.dilation_rate)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 2893, in conv2d
+    data_format='NHWC')
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\nn_ops.py", line 894, in convolution
+    name=name)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\nn_ops.py", line 971, in convolution_internal
+    name=name)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\gen_nn_ops.py", line 1161, in conv2d
+    data_format=data_format, dilations=dilations, name=name)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\op_def_library.py", line 788, in _apply_op_helper
+    op_def=op_def)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\util\deprecation.py", line 507, in new_func
+    return func(*args, **kwargs)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\ops.py", line 3616, in create_op
+    op_def=op_def)
+  File "C:\Users\Personal\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\ops.py", line 2005, in __init__
+    self._traceback = tf_stack.extract_stack()
+
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master
+C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/
+saving C:\Users\Personal\TA_20\fcnn\Test epoch\Faster-R-CNN-model-deployment-using-flask-on-local-host-master/uploads/anton_if_20.jpg
+Exception on /upload [POST]
+Traceback (most recent call last):
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "server.py", line 114, in upload
+    im_path, im_name = mainf(saved_path)
+  File "server.py", line 617, in mainf
+    model_rpn.load_weights(C.model_path, by_name=True)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 2498, in load_weights
+    load_weights_from_hdf5_group_by_name(f, self.layers)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\engine\topology.py", line 2976, in load_weights_from_hdf5_group_by_name
+    K.batch_set_value(weight_value_tuples)
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py", line 2014, in batch_set_value
+    value = np.asarray(value)
+  File "h5py\_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py\_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "C:\Users\Personal\AppData\Local\Programs\Python\Python37\lib\site-packages\h5py\_hl\dataset.py", line 766, in __array__
+    arr = numpy.empty(self.shape, dtype=self.dtype if dtype is None else dtype)
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 9.00 MiB for an array with shape (3, 3, 512, 512) and data type float32
